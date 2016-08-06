@@ -74,6 +74,21 @@
         "2": "Aim at the window on the left",
         "3": "Normal Throw"
       }
+    },
+	{
+      "Title": "Long cross from long doors",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/20pnO1e.jpg",
+        "2": "http://i.imgur.com/D7zGo8E.jpg",
+        "3": "http://i.imgur.com/olbxYFf.jpg"
+      },
+      "Text": {
+        "1": "Stand in corner by the barrel at long",
+        "2": "Aim at the top of the red sign, run, and release when your crosshair is at the bottom of the sign",
+        "3": "Running Throw"
+      }
     }
   ]
   }
