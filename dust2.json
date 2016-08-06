@@ -29,6 +29,21 @@
         "2": "dont",
         "3": "care"
       }
+    },
+	{
+      "Title": "Second smoke",
+	  "Region":"Mid",
+	  "Side":"Counter-Terrorist",
+      "Pictures": {
+        "1": "Hi",
+        "2": "Hello",
+        "3": "Bonjour"
+      },
+      "Text": {
+        "1": "I",
+        "2": "dont",
+        "3": "care"
+      }
     }
   ]
   }
