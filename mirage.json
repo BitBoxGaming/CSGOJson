@@ -16,7 +16,22 @@
       }
     },
     {
-      "Title": "Stairs from T ramp",
+      "Title": "Connector from T ramp",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/lJTiMqk.jpg",
+        "2": "http://i.imgur.com/z1zZzyz.jpg",
+        "3": "http://i.imgur.com/qfwqFCi.jpg"
+      },
+      "Text": {
+        "1": "Stand in between the two alcoves",
+        "2": "Aim up and to the left of the corner of the pilar",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "Connector from T ramp",
 	  "Region":"A",
 	  "Side":"Terrorist",
       "Pictures": {
