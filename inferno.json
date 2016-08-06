@@ -1,0 +1,30 @@
+{
+  "smokes": [
+    {
+      "Title": "X-Box from outside long",
+      "Pictures": {
+        "1": "Picture1",
+        "2": "Picture2",
+        "3": "Picture3"
+      },
+      "Text": {
+        "1": "Text1",
+        "2": "Text2",
+        "3": "Text3"
+      }
+    },
+    {
+      "Title": "Second smoke",
+      "Pictures": {
+        "1": "Hi",
+        "2": "Hello",
+        "3": "Bonjour"
+      },
+      "Text": {
+        "1": "I",
+        "2": "dont",
+        "3": "care"
+      }
+    }
+  ]
+}
