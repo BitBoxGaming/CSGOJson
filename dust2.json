@@ -5,14 +5,14 @@
 	  "Region":"Mid",
 	  "Side":"Terrorist",
       "Pictures": {
-        "1": "Picture1",
-        "2": "Picture2",
-        "3": "Picture3"
+        "1": "http://i.imgur.com/ZBMk3Uc.jpg",
+        "2": "http://i.imgur.com/vdilvbh.jpg",
+        "3": "http://i.imgur.com/yRSpNKc.jpg"
       },
       "Text": {
-        "1": "Text1",
-        "2": "Text2",
-        "3": "Text3"
+        "1": "Stand where the cable shadow intersects the light shadow",
+        "2": "Aim at the highest steel support",
+        "3": "Normal Throw"
       }
     }
   ]
