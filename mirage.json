@@ -1,94 +1,109 @@
 {
   "smokes": [
     {
-      "Title": "X-Box from outside long",
+      "Title": "CT spawn from T ramp",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/GjzHiew.jpg",
+        "2": "http://i.imgur.com/EEDtYew.jpg",
+        "3": "http://i.imgur.com/AVrpKE4.jpg"
+      },
+      "Text": {
+        "1": "Stand on the angled wall of the building",
+        "2": "Aim slightly at the right of the pole sticking from the other building",
+        "3": "Jump Throw"
+      }
+    },
+    {
+      "Title": "Connector from T ramp",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/lJTiMqk.jpg",
+        "2": "http://i.imgur.com/z1zZzyz.jpg",
+        "3": "http://i.imgur.com/qfwqFCi.jpg"
+      },
+      "Text": {
+        "1": "Stand in between the two alcoves",
+        "2": "Aim up and to the left of the corner of the pillar",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "Stairs from T ramp",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/uaLEToM.jpg",
+        "2": "http://i.imgur.com/lLlOkyy.jpg",
+        "3": "http://i.imgur.com/oH3AJnc.jpg"
+      },
+      "Text": {
+        "1": "Stand on the far side on the first step",
+        "2": "Aim at the center of the shape the wooden supports make",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "Top mid from T spawn",
 	  "Region":"Mid",
 	  "Side":"Terrorist",
       "Pictures": {
-        "1": "http://i.imgur.com/ZBMk3Uc.jpg",
-        "2": "http://i.imgur.com/vdilvbh.jpg",
-        "3": "http://i.imgur.com/yRSpNKc.jpg"
+        "1": "http://i.imgur.com/jUdaOEC.jpg",
+        "2": "http://i.imgur.com/24HyX4c.jpg",
+        "3": "http://i.imgur.com/FcFeW0H.jpg"
       },
       "Text": {
-        "1": "Stand where the cable shadow intersects the light shadow",
-        "2": "Aim at the highest steel support",
+        "1": "Stand next to the dust bin in spawn",
+        "2": "Aim slightly to the right and below the antenna",
         "3": "Normal Throw"
       }
     },
 	{
-      "Title": "B tunnel from mid",
-	  "Region":"B",
-	  "Side":"Counter-Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/v0cUURr.jpg",
-        "2": "http://i.imgur.com/9adiy7t.jpg",
-        "3": "http://i.imgur.com/iCcVOGf.jpg"
-      },
-      "Text": {
-        "1": "Stand in the corner next to the lamp",
-        "2": "Line up with the top of the building and the far left of the blue barrel",
-        "3": "Normal Throw"
-      }
-    },
-	{
-      "Title": "Long corner from outside long",
-	  "Region":"A",
-	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/MZatnJN.jpg",
-        "2": "http://i.imgur.com/vkcrLWP.jpg",
-        "3": "http://i.imgur.com/H6GALpb.jpg"
-      },
-      "Text": {
-        "1": "Stand in the cardboard box corner next to the car",
-        "2": "Aim at the tip of the flapping cardboard",
-        "3": "Normal Throw"
-      }
-    },
-	{
-      "Title": "Long doors from dumpster",
-	  "Region":"A",
-	  "Side":"Counter-Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/A3wotiJ.jpg",
-        "2": "http://i.imgur.com/T7pMOoZ.jpg",
-        "3": "http://i.imgur.com/SN1btmH.jpg"
-      },
-      "Text": {
-        "1": "Stand in the cardboard box corner next to the car",
-        "2": "Aim at the tip of the flapping cardboard",
-        "3": "Normal Throw"
-      }
-    },
-	{
-      "Title": "CT spawn from mid",
+      "Title": "Window smoke from top mid",
 	  "Region":"Mid",
 	  "Side":"Terrorist",
       "Pictures": {
-        "1": "http://i.imgur.com/0eDKM69.jpg",
-        "2": "http://i.imgur.com/6ndVVPe.jpg",
-        "3": "http://i.imgur.com/KDXJ8EP.jpg"
+        "1": "http://i.imgur.com/Q2KamsH.jpg",
+        "2": "http://i.imgur.com/WBXfL2G.jpg",
+        "3": "http://i.imgur.com/da9YSjY.jpg"
       },
       "Text": {
-        "1": "Stand in the corner by Xbox",
-        "2": "Aim at the window on the left",
+        "1": "Stand in the right corner boxes",
+        "2": "Line your crosshair up with the left of the box and top of the cardboard flap",
         "3": "Normal Throw"
       }
     },
 	{
-      "Title": "Long cross from long doors",
-	  "Region":"A",
+      "Title": "Short smoke from top mid",
+	  "Region":"Mid",
 	  "Side":"Terrorist",
       "Pictures": {
-        "1": "http://i.imgur.com/20pnO1e.jpg",
-        "2": "http://i.imgur.com/D7zGo8E.jpg",
-        "3": "http://i.imgur.com/olbxYFf.jpg"
+        "1": "http://i.imgur.com/hTBidNZ.jpg",
+        "2": "http://i.imgur.com/jwy86yh.jpg",
+        "3": "http://i.imgur.com/MquvO2T.jpg"
       },
       "Text": {
-        "1": "Stand in corner by the barrel at long",
-        "2": "Aim at the top of the red sign, run, and release when your crosshair is at the bottom of the sign",
-        "3": "Running Throw"
+        "1": "Stand in the right corner boxes",
+        "2": "Line your crosshair up with the dark stripe of the cardboard box",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "Connector smoke from top mid",
+	  "Region":"Mid",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/LDsPzmZ.jpg",
+        "2": "http://i.imgur.com/laqYscO.jpg",
+        "3": "http://i.imgur.com/nipEQd9.jpg"
+      },
+      "Text": {
+        "1": "Stand in the left corner boxes",
+        "2": "Line your crosshair up with the left of the bar code and the cable support",
+        "3": "Normal Throw"
       }
     }
   ]
-  }
+}
