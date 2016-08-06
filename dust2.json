@@ -14,6 +14,66 @@
         "2": "Aim at the highest steel support",
         "3": "Normal Throw"
       }
+    },
+	{
+      "Title": "B tunnel from mid",
+	  "Region":"B",
+	  "Side":"Counter-Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/v0cUURr.jpg",
+        "2": "http://i.imgur.com/9adiy7t.jpg",
+        "3": "http://i.imgur.com/iCcVOGf.jpg"
+      },
+      "Text": {
+        "1": "Stand in the corner next to the lamp",
+        "2": "Line up with the top of the building and the far left of the blue barrel",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "Long corner from outside long",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/MZatnJN.jpg",
+        "2": "http://i.imgur.com/vkcrLWP.jpg",
+        "3": "http://i.imgur.com/H6GALpb.jpg"
+      },
+      "Text": {
+        "1": "Stand in the cardboard box corner next to the car",
+        "2": "Aim at the tip of the flapping cardboard",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "Long doors from dumpster",
+	  "Region":"A",
+	  "Side":"Counter-Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/A3wotiJ.jpg",
+        "2": "http://i.imgur.com/T7pMOoZ.jpg",
+        "3": "http://i.imgur.com/SN1btmH.jpg"
+      },
+      "Text": {
+        "1": "Stand in the cardboard box corner next to the car",
+        "2": "Aim at the tip of the flapping cardboard",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "CT spawn from mid",
+	  "Region":"Mid",
+	  "Side":"Terrorist",
+      "Pictures": {
+        "1": "http://i.imgur.com/0eDKM69.jpg",
+        "2": "http://i.imgur.com/6ndVVPe.jpg",
+        "3": "http://i.imgur.com/KDXJ8EP.jpg"
+      },
+      "Text": {
+        "1": "Stand in the corner by Xbox",
+        "2": "Aim at the window on the left",
+        "3": "Normal Throw"
+      }
     }
   ]
   }
