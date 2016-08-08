@@ -4,11 +4,6 @@
       "Title": "X-Box from outside long",
 	  "Region":"Mid",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/ZBMk3Uc.jpg",
-        "2": "http://i.imgur.com/vdilvbh.jpg",
-        "3": "http://i.imgur.com/yRSpNKc.jpg"
-      },
       "Text": {
         "1": "Stand where the cable shadow intersects the light shadow",
         "2": "Aim at the highest steel support",
@@ -19,11 +14,6 @@
       "Title": "B tunnel from mid",
 	  "Region":"B",
 	  "Side":"Counter-Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/v0cUURr.jpg",
-        "2": "http://i.imgur.com/9adiy7t.jpg",
-        "3": "http://i.imgur.com/iCcVOGf.jpg"
-      },
       "Text": {
         "1": "Stand in the corner next to the lamp",
         "2": "Line up with the top of the building and the far left of the blue barrel",
@@ -34,11 +24,6 @@
       "Title": "Long corner from outside long",
 	  "Region":"A",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/MZatnJN.jpg",
-        "2": "http://i.imgur.com/vkcrLWP.jpg",
-        "3": "http://i.imgur.com/H6GALpb.jpg"
-      },
       "Text": {
         "1": "Stand in the cardboard box corner next to the car",
         "2": "Aim at the tip of the flapping cardboard",
@@ -49,11 +34,6 @@
       "Title": "Long doors from dumpster",
 	  "Region":"A",
 	  "Side":"Counter-Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/A3wotiJ.jpg",
-        "2": "http://i.imgur.com/T7pMOoZ.jpg",
-        "3": "http://i.imgur.com/SN1btmH.jpg"
-      },
       "Text": {
         "1": "Stand in the cardboard box corner next to the car",
         "2": "Aim at the tip of the flapping cardboard",
@@ -64,11 +44,6 @@
       "Title": "CT spawn from mid",
 	  "Region":"Mid",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/0eDKM69.jpg",
-        "2": "http://i.imgur.com/6ndVVPe.jpg",
-        "3": "http://i.imgur.com/KDXJ8EP.jpg"
-      },
       "Text": {
         "1": "Stand in the corner by Xbox",
         "2": "Aim at the window on the left",
@@ -79,11 +54,6 @@
       "Title": "Long cross from long doors",
 	  "Region":"A",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/20pnO1e.jpg",
-        "2": "http://i.imgur.com/D7zGo8E.jpg",
-        "3": "http://i.imgur.com/olbxYFf.jpg"
-      },
       "Text": {
         "1": "Stand in corner by the barrel at long",
         "2": "Aim at the top of the red sign, run, and release when your crosshair is at the bottom of the sign",
