@@ -1,0 +1,74 @@
+{
+  "smokes": [
+    {
+      "Title": "Z connector from T spawn",
+	  "Region":"Mid",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand to the left of the third white line and aim slightly above the middle of the panelling",
+        "2": "Run forward and jump throw when your crosshair is at the center of the panelling",
+        "3": "Running Jump Throw"
+      }
+    },
+	{
+      "Title": "Left site from A main",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand in this general area in A main",
+        "2": "Aim at the crease in the plastic cover",
+        "3": "Running Throw"
+      }
+    },
+	{
+      "Title": "Lower from B main",
+	  "Region":"B",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand in this general area in B main",
+        "2": "Aim at the center of the top left panel",
+        "3": "Running Throw"
+      }
+    },
+	{
+      "Title": "Heaven from B main",
+	  "Region":"B",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand in this general area in A main",
+        "2": "Line up your crosshair with the left of the panels and the white/brown intersection",
+        "3": "Running Throw"
+      }
+    },
+	{
+      "Title": "Left mid from mid main",
+	  "Region":"Mid",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand in this corner in mid main",
+        "2": "Aim slightly down from the line on the left of the middle divider",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "Right mid from mid main",
+	  "Region":"Mid",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand on the left of the doorframe of mid main",
+        "2": "Aim in the top right of the blocked up window",
+        "3": "Normal Throw"
+      }
+    },
+	{
+      "Title": "A main from truck",
+	  "Region":"A",
+	  "Side":"Counter-Terrorist",
+      "Text": {
+        "1": "Stand in the corner of the truck",
+        "2": "Aim between the E and the Y in the sign",
+        "3": "Normal Throw"
+      }
+    }
+  ]
+}
