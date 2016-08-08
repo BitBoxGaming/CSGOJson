@@ -4,11 +4,6 @@
       "Title": "CT spawn from T ramp",
 	  "Region":"A",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/GjzHiew.jpg",
-        "2": "http://i.imgur.com/EEDtYew.jpg",
-        "3": "http://i.imgur.com/AVrpKE4.jpg"
-      },
       "Text": {
         "1": "Stand on the angled wall of the building",
         "2": "Aim slightly at the right of the pole sticking from the other building",
@@ -19,11 +14,6 @@
       "Title": "Connector from T ramp",
 	  "Region":"A",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/lJTiMqk.jpg",
-        "2": "http://i.imgur.com/z1zZzyz.jpg",
-        "3": "http://i.imgur.com/qfwqFCi.jpg"
-      },
       "Text": {
         "1": "Stand in between the two alcoves",
         "2": "Aim up and to the left of the corner of the pillar",
@@ -34,11 +24,6 @@
       "Title": "Stairs from T ramp",
 	  "Region":"A",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/uaLEToM.jpg",
-        "2": "http://i.imgur.com/lLlOkyy.jpg",
-        "3": "http://i.imgur.com/oH3AJnc.jpg"
-      },
       "Text": {
         "1": "Stand on the far side on the first step",
         "2": "Aim at the center of the shape the wooden supports make",
@@ -49,11 +34,6 @@
       "Title": "Top mid from T spawn",
 	  "Region":"Mid",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/jUdaOEC.jpg",
-        "2": "http://i.imgur.com/24HyX4c.jpg",
-        "3": "http://i.imgur.com/FcFeW0H.jpg"
-      },
       "Text": {
         "1": "Stand next to the dust bin in spawn",
         "2": "Aim slightly to the right and below the antenna",
@@ -64,11 +44,6 @@
       "Title": "Window smoke from top mid",
 	  "Region":"Mid",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/Q2KamsH.jpg",
-        "2": "http://i.imgur.com/WBXfL2G.jpg",
-        "3": "http://i.imgur.com/da9YSjY.jpg"
-      },
       "Text": {
         "1": "Stand in the right corner boxes",
         "2": "Line your crosshair up with the left of the box and top of the cardboard flap",
@@ -79,11 +54,6 @@
       "Title": "Short smoke from top mid",
 	  "Region":"Mid",
 	  "Side":"Terrorist",
-      "Pictures": {
-        "1": "http://i.imgur.com/hTBidNZ.jpg",
-        "2": "http://i.imgur.com/jwy86yh.jpg",
-        "3": "http://i.imgur.com/MquvO2T.jpg"
-      },
       "Text": {
         "1": "Stand in the right corner boxes",
         "2": "Line your crosshair up with the dark stripe of the cardboard box",
