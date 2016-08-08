@@ -80,7 +80,7 @@
         "3": "Jump Throw"
       }
     },
-	{,
+	{
       "Title": "Back left pillar smoke from B apps",
 	  "Region":"B",
 	  "Side":"Terrorist",
@@ -90,5 +90,6 @@
         "3": "Normal Throw"
       }
     }	
+	
   ]
 }
