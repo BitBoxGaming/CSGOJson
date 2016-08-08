@@ -80,6 +80,16 @@
         "3": "Jump Throw"
       }
     },
+	{,
+      "Title": "Back left pillar smoke from B apps",
+	  "Region":"B",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand on the left doorframe of the black grated door",
+        "2": "Line up your crosshair with the center of the window and the dark spot on the tower",
+        "3": "Normal Throw"
+      }
+    }
 	{
       "Title": "Back left pillar smoke from B apps",
 	  "Region":"B",
