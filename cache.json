@@ -69,6 +69,16 @@
         "2": "Aim between the E and the Y in the sign",
         "3": "Normal Throw"
       }
+    },
+	{
+      "Title": "Quad from outside A main",
+	  "Region":"A",
+	  "Side":"Terrorist",
+      "Text": {
+        "1": "Stand against the wall on top of the thin white line",
+        "2": "Aim above the aerial and line up with the second spoke of the blue scaffolding",
+        "3": "Normal Throw"
+      }
     }
   ]
 }
