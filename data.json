@@ -248,9 +248,45 @@
         ]
     },
     "Cobblestone":{
+	"smokes":[
+            {
+                "Title":"CT spawn from T ramp",
+                "Region":"A",
+                "Side":"Terrorist",
+                "Text":{
+                    "1":"Stand on the angled wall of the building",
+                    "2":"Aim slightly at the right of the pole sticking from the other building",
+                    "3":"Jump Throw"
+                }
+            }
+        ]
     },
     "Overpass":{
+	"smokes":[
+            {
+                "Title":"CT spawn from T ramp",
+                "Region":"A",
+                "Side":"Terrorist",
+                "Text":{
+                    "1":"Stand on the angled wall of the building",
+                    "2":"Aim slightly at the right of the pole sticking from the other building",
+                    "3":"Jump Throw"
+                }
+            }
+        ]
     },
     "Train":{
+	"smokes":[
+            {
+                "Title":"CT spawn from T ramp",
+                "Region":"A",
+                "Side":"Terrorist",
+                "Text":{
+                    "1":"Stand on the angled wall of the building",
+                    "2":"Aim slightly at the right of the pole sticking from the other building",
+                    "3":"Jump Throw"
+                }
+            }
+        ]
     }
 }
